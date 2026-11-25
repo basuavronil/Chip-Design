@@ -1,5 +1,8 @@
 <img width="1266" height="1022" alt="image" src="https://github.com/user-attachments/assets/74653813-5a02-453c-a030-7444228961d2" />
 
+<img width="1266" height="1394" alt="image" src="https://github.com/user-attachments/assets/68286791-f170-4352-901c-19c3156915c9" />
+
+
 # Generalized SoC: Block Functions and What Happens Without Them
 
 ## 1. Crystal oscillator
