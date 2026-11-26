@@ -11,7 +11,7 @@ An off-chip component that vibrates at a fixed frequency and gives the chip a st
 
 **Without it:** The PLL has nothing to lock to, so no clock is generated and the chip stays frozen.  
 
-## 2. Power supply  
+## 2. Power supply     
 
 The off-chip source (battery or board regulator) that provides the voltage the chip runs on.
 
