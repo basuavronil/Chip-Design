@@ -4,7 +4,7 @@
 
   
 # Generalized SoC: Block Functions and What Happens Without Them
-
+   
 ## 1. Crystal oscillator  
 
 An off-chip component that vibrates at a fixed frequency and gives the chip a stable reference clock.
