@@ -20,7 +20,7 @@ The off-chip source (battery or board regulator) that provides the voltage the c
 ## 3. Clock, reset and power management (PLL, PMU)
 
 The support block that multiplies the crystal clock into high-speed clocks, controls reset at startup and manages each block's voltage and power state.
-
+  
 **Without it:** Blocks would have no usable clock, would start in random states and would waste power. The chip would be unreliable, hot and power-hungry, even if parts of it worked.
 
 ## 4. CPU cores
