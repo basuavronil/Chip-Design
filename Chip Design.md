@@ -7,7 +7,7 @@
    
 ## 1. Crystal oscillator  
 
-An off-chip component that vibrates at a fixed frequency and gives the chip a stable reference clock.
+An off-chip component that vibrates at a fixed frequency and gives the chip a stable reference clock.  
 
 **Without it:** The PLL has nothing to lock to, so no clock is generated and the chip stays frozen.  
 
