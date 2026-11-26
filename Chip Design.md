@@ -48,7 +48,7 @@ The accelerators don't do all the work. They each do one narrow kind of work ver
 5. **Use the result:** the CPU reads the output from memory, then saves it, displays it or passes it on to the next stage.
 
 **Why the work is split:** A CPU is flexible but only does a few things at a time. A GPU/NPU does thousands of identical simple calculations in parallel, but it is poor at decision-heavy code. A DSP/ISP is tuned for a fixed type of data stream, like audio or camera pixels. Each is much faster and more power-efficient on its own kind of work, and the CPU is best at coordinating them.
-
+   
 **Example (taking a photo on a phone):** The CPU runs the camera app and tells the ISP to process the sensor data. The ISP cleans up the image. The NPU might run face detection on it. The CPU takes the results, saves the file and updates the screen.
 
 ## 5. GPU / NPU
